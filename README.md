@@ -1,6 +1,6 @@
 # Single Shot Detector
 
-This is the Keras implementation of Faster RCNN architecture: Towards Real Time Object Detection with Region Proposal Network (RPN)
+This is the Keras implementation of Single Shot Detector: Towards Real Time Object Detection
 
 ### **Note:**
 
