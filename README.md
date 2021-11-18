@@ -92,5 +92,4 @@ This is the Keras implementation of Single Shot Detector: Towards Real Time Obje
 https://github.com/tensorflow/models/tree/master/research/object_detection
 
 ## References 
-- Implementation adopted from [here](https://github.com/yhenon/keras-frcnn/) and is based on the idea of tensorflow’s object detection [API](https://github.com/tensorflow/models/tree/master/research/object_detection).
--  Mean Average Precision implementation is from [here](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+- Implementation adopted from [here](https://github.com/pierluigiferrari/ssd_keras) and is based on the idea of tensorflow’s object detection [API](https://github.com/tensorflow/models/tree/master/research/object_detection).
